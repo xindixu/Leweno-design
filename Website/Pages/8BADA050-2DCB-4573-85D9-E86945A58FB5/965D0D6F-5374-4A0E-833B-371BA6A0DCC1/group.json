@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "965D0D6F-5374-4A0E-833B-371BA6A0DCC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1463,
+    "width": 1440,
+    "x": 0,
+    "y": 3099
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "21B10171-6246-4289-836E-C4CB56F0F7D6"
+    },
+    {
+      "class": "rectangle",
+      "id": "4A98BA8A-B6A3-4978-A15E-848DF36C681B"
+    },
+    {
+      "class": "rectangle",
+      "id": "4DF4FF98-0059-4687-9308-44D2438A4F95"
+    },
+    {
+      "class": "group",
+      "id": "D2EDE558-25CD-4D74-868A-27CE9197326D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BB043D7-2E33-48A8-901F-AF7C79B24FEC"
+    },
+    {
+      "class": "group",
+      "id": "6A8F87D8-5D46-45E4-BB34-60BE572E40B7"
+    },
+    {
+      "class": "group",
+      "id": "2B4C511F-1968-4F0B-B7E3-3A4F69343E1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1FDC79D8-ADBF-4783-B534-FDD2EAD58F0E"
+    },
+    {
+      "class": "group",
+      "id": "09D968CF-E634-47C0-8EDD-4E9DF155157E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8122CBE-3825-4DEE-8925-5D6C4B55B182"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "617699E3-A723-467E-AA2B-D293D89FF745"
+    },
+    {
+      "class": "group",
+      "id": "85DBA886-DF3E-4513-B877-89AE2E9D16FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDC08175-0A9B-4AC3-B2F2-73E2134F019A"
+    },
+    {
+      "class": "group",
+      "id": "AF3E8F11-1057-4A46-8193-329A58E8F7B9"
+    },
+    {
+      "class": "group",
+      "id": "16C148D6-D69F-4C2A-B30A-D19DB600431B"
+    }
+  ],
+  "name": "WhyLeweno",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

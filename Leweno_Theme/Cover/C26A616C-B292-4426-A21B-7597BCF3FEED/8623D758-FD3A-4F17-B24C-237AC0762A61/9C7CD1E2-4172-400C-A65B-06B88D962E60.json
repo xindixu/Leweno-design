@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C7CD1E2-4172-400C-A65B-06B88D962E60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82D3ADA9-5E8F-469E-A143-DDC9E0FA77D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66CDA0C4-6613-43D0-B0F3-B0B6380C6BF6",
+    "height": 32,
+    "width": 113,
+    "x": 1072,
+    "y": 625
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Chips / Choice / Outlined / Activated",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE717747-4F2A-4787-9A57-0C0103A29754",
+      "overrideName": "86D6274B-4ABE-4188-9878-86A6B9858FBE/503B25E9-F00A-4BE8-B233-A8E646D7810F_stringValue",
+      "value": "Active"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FFC20AB5-9B3A-44AF-9543-2C726910F09E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1A10CEE6-276E-458A-8A13-497DDD387396",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C61E90A0-0201-436C-9B3E-212F2BE8ABE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0BDAA628-BBE0-48B0-A031-CAA82DBBFD5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A226360E-12D6-4099-9348-301679F61575",
+    "height": 184,
+    "width": 145,
+    "x": 428,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "93E1951D-A904-4CD0-A20D-F97A766E65F6"
+    },
+    {
+      "class": "text",
+      "id": "0F0BA2AD-0901-4C68-A0BD-E348AE3569CF"
+    }
+  ],
+  "name": "Col4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C197FA7B-70E6-4531-89F9-4465D86A55CE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

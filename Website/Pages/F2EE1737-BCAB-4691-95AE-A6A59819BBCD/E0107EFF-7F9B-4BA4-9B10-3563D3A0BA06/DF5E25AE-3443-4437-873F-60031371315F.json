@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DF5E25AE-3443-4437-873F-60031371315F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8D32CABC-3497-45F5-990D-A478DF08AB62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1A0750F-01C7-45F7-BEC6-B7BD63A38B18",
+    "height": 36,
+    "width": 175,
+    "x": 518,
+    "y": 420
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Outlined / Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2C19F3A-A297-4E0F-B42D-E29B8744F2BE",
+      "overrideName": "F4FF845F-A9BC-4395-A21D-E81FB19AFB55/795E42AC-B672-4179-8C16-F51F6144C953_stringValue",
+      "value": "Post a Project"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B64F6437-5204-4B18-BAE4-9D3171B2E896",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8AD5DE85-3DC8-4FC1-9138-A7BA52F0538B",
+  "verticalSpacing": 0
+}

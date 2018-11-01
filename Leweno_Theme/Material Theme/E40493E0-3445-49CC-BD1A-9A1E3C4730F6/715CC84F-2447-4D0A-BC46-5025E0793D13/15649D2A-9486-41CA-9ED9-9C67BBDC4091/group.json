@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "15649D2A-9486-41CA-9ED9-9C67BBDC4091",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 140,
+    "y": 140
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "01FD4941-5314-4D51-BC98-3314B39D7F7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87059D94-070C-49B2-94C2-D7F82376C277"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DBC8FA1-C466-402E-958E-B3814E09FE7D"
+    },
+    {
+      "class": "group",
+      "id": "EA7F2A60-E4C6-4D2E-86FE-32CE538165CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4DC65CF1-EFB2-448F-9B92-56254FE418E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6473EA42-9391-4CEA-BD97-4A41AE44496A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29844CE5-C98A-4999-9985-699E11C6D16F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FA365C5-964D-489E-8567-FAA6F142662C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5E0F21B-973C-49EA-A7AE-5E8257E2105F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61B4F130-229D-4910-AD8F-9A36AEF0D504"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6A41632C-BB36-4F9F-B3EE-3CF79A1338E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4158E5A-E043-4348-992B-5F71D56BF938"
+    },
+    {
+      "class": "group",
+      "id": "84B8A9BE-EB11-442A-BBAA-2B56FEA0004E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D10F88A-4707-4BBB-9D39-3E7A9FF94A4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69A4FFD1-6D36-47DC-9662-BBB7A81DFAF5"
+    }
+  ],
+  "name": "Mobile / Shrine 01",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

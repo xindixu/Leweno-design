@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "68DC9DCF-6C71-421B-8259-AB92986C827F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F01D1C1-984C-4195-896A-D13225855990",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C5626E1-05A2-4C0A-826B-FF9F5A8761F5",
+    "height": 47,
+    "width": 328,
+    "x": 16,
+    "y": 373
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "✱ / Text / Body 2 / Selected / On Surface / Medium Emphasis / Left ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CA93B04-EC38-469D-9F63-36A4D2EEA7B0",
+      "overrideName": "EA94034F-589A-4C8E-A7F0-71E97520D736_stringValue",
+      "value": "Pinstriped cornflower blue cotton blouse takes you on a walk to the park or just down the hall."
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E1883D5-12A6-47C8-A1F2-19B38BD3C33F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "59889DEF-07C0-461C-8591-2F958583B8AA",
+  "verticalSpacing": 0
+}

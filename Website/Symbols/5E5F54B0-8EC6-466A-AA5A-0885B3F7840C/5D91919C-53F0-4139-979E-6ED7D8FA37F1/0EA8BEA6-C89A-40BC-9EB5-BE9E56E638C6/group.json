@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0EA8BEA6-C89A-40BC-9EB5-BE9E56E638C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6852344-3637-4FC4-819E-25D0EFB83449",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58A1B99D-158D-433C-A33B-3E1B9101C3C0",
+    "height": 40,
+    "width": 40,
+    "x": 1174,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5CB81562-6F71-4068-9F8D-C3A8A944098F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "91D03940-C5E9-43CE-9B0F-9307BCD8BE09"
+    }
+  ],
+  "name": "Chat",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11B87357-60A6-4059-A288-BEF537A51872",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

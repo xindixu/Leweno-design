@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "61B4F130-229D-4910-AD8F-9A36AEF0D504",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8484E92-B416-4E68-877B-BAB4DB1BE9BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56C38A1F-0C4B-4639-B8D6-7F261B242CBE",
+    "height": 24,
+    "width": 328,
+    "x": 16,
+    "y": 258
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "✱ / Text / Subtitle 1 / Selected / On Primary / Medium Emphasis / Center ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44BDF65B-4B37-476B-8705-DDC37142DBED",
+      "overrideName": "0DA81B21-5F8A-4EB9-AAFB-C95E0BAA7AA9_stringValue",
+      "value": "SHOES"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "72B1EBAD-CDEB-4BCC-8573-DE3090FECE29",
+      "opacity": 0.6
+    },
+    "do_objectID": "BD0B4CE1-26F5-4EB3-B745-C53F054A4A3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E495B636-41C1-45C1-A024-D7688302C2BD",
+  "verticalSpacing": 0
+}

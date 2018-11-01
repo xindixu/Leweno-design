@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C06BCAE6-6DCB-4227-B2D5-42C0328A10C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2AB74E01-30A5-460C-B6BC-BC87D980EDEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D10DF06D-CEA3-4464-AABB-15FD6A965596",
+    "height": 96,
+    "width": 360,
+    "x": 560,
+    "y": 1704
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Banner / One-line / Text",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC78B37A-3CDB-4B38-86A9-18C5C2D7C197",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "73080C44-A860-4505-B5C1-D6AEBB51CC4B",
+  "verticalSpacing": 0
+}

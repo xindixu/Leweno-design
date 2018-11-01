@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "83A76DCB-AE07-4C00-B35C-F00489026992",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E44BA3F-0238-4FA6-B951-E01DD3002746",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D9444882-AA1A-4E03-B48D-FA65DC251601",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ADEDB3AF-6847-4E3C-AEA4-497F5D5E3333"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "715B8F29-B116-4145-BC3A-7C65204C7B36"
+    }
+  ],
+  "name": "FAB / Mini / Circular / Secondary Color / Enabled ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB4B764D-D915-430B-A60E-11AAB7371AF8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5D09EDD-5AAA-4165-AAC7-66E0D45CF349",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20C43A4D-76D1-408A-8341-25801D168D12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5721034E-1C89-402C-9865-9E6019FF7215",
+    "height": 175,
+    "width": 500,
+    "x": 631,
+    "y": 92
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D5009E0E-CF4E-4C37-A88B-D1DD135C5923"
+    },
+    {
+      "class": "text",
+      "id": "686DEFA8-D937-42A5-B623-1AEA2C8ED295"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C92BD39C-B2B6-4817-9DCD-818694C0E747"
+    }
+  ],
+  "name": "Step1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "59C9A37E-B326-431B-914D-9E216B61D87B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

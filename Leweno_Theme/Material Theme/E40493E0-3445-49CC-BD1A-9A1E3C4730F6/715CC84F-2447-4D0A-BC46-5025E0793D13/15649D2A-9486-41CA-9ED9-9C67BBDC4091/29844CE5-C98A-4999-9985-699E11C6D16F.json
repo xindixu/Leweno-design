@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "29844CE5-C98A-4999-9985-699E11C6D16F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DAC5116D-6920-4999-BA10-D5E512A80FE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D216AAED-F0F9-49B9-8F9D-C5064BB1CE1E",
+    "height": 24,
+    "width": 328,
+    "x": 16,
+    "y": 401.9999999999999
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "✱ / Text / Subtitle 1 / Selected / On Primary / Medium Emphasis / Center ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44BDF65B-4B37-476B-8705-DDC37142DBED",
+      "overrideName": "0DA81B21-5F8A-4EB9-AAFB-C95E0BAA7AA9_stringValue",
+      "value": "DRESSES"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "3C1F8A6F-2200-4335-BEAA-503EE6AC1656",
+      "opacity": 0.6
+    },
+    "do_objectID": "24CAC27F-798E-4594-898E-32AF49F6CD06",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E495B636-41C1-45C1-A024-D7688302C2BD",
+  "verticalSpacing": 0
+}

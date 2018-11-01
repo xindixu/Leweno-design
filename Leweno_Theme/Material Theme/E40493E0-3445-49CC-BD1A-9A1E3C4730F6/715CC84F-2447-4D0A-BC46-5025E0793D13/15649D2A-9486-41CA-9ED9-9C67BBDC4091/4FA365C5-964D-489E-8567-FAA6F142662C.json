@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4FA365C5-964D-489E-8567-FAA6F142662C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C170EB99-FE01-484F-A1F6-321C64262F3A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5006508-C41F-4ADA-A2CC-6A6E779CF23F",
+    "height": 24,
+    "width": 328,
+    "x": 16,
+    "y": 354
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "✱ / Text / Subtitle 1 / Selected / On Primary / Medium Emphasis / Center ",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44BDF65B-4B37-476B-8705-DDC37142DBED",
+      "overrideName": "0DA81B21-5F8A-4EB9-AAFB-C95E0BAA7AA9_stringValue",
+      "value": "BOTTOMS"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "BAF6A756-CA6F-4243-9048-9DBACE6BE247",
+      "opacity": 0.6
+    },
+    "do_objectID": "2115A125-D281-491F-AD36-03B259FEA496",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E495B636-41C1-45C1-A024-D7688302C2BD",
+  "verticalSpacing": 0
+}

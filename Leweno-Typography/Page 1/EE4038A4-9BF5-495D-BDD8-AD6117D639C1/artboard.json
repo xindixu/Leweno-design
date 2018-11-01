@@ -1,0 +1,184 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.4784313725490197,
+    "do_objectID": "657CE0D0-0CF3-4A3D-9E5E-69ACABBDBABB",
+    "green": 1,
+    "red": 0.9921568627450981
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE4038A4-9BF5-495D-BDD8-AD6117D639C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF981F32-B762-4AE4-A3F5-0A625E8D2270",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57E96310-43C3-4F9A-ADAB-905759200CB7",
+    "height": 908,
+    "width": 760,
+    "x": 540,
+    "y": 159
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "ED3D6D56-67A9-451C-99A8-252735ACB1DD",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 24
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "69F2E4BF-7EDA-453F-815F-22CD7B0838DE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "00F5BEEA-D87A-4D4B-9F9E-65EE1A143F0F"
+    },
+    {
+      "class": "text",
+      "id": "4B3689BB-6D3E-4ACC-99A4-05165D345581"
+    },
+    {
+      "class": "text",
+      "id": "F27F3BDF-700A-4640-93D4-EACC88E8EDFB"
+    },
+    {
+      "class": "text",
+      "id": "D62EF9AD-D535-40CC-872A-E6AA350E7938"
+    },
+    {
+      "class": "text",
+      "id": "20BD4088-F7CF-45F7-8836-B7438C301766"
+    },
+    {
+      "class": "text",
+      "id": "5D802B42-787A-475C-BB2A-E37FEDFCCC6C"
+    },
+    {
+      "class": "text",
+      "id": "E631EE95-64E1-48AC-8360-F03056C970AC"
+    },
+    {
+      "class": "text",
+      "id": "0BC6A961-47AC-400D-A99D-6C67C7BEFFD5"
+    },
+    {
+      "class": "text",
+      "id": "D9F84EEE-506E-4EEB-9593-D261DA01DDEC"
+    },
+    {
+      "class": "text",
+      "id": "A176FA0D-FD0C-42A1-BB77-ACAEA0A68ACB"
+    },
+    {
+      "class": "text",
+      "id": "623F3F9A-C440-417A-8C25-8A96B124C7BE"
+    },
+    {
+      "class": "text",
+      "id": "1E43149D-E9D2-4689-81CE-CB93622D25A5"
+    },
+    {
+      "class": "text",
+      "id": "453B4A32-3405-4746-A0DA-A3A3A711AB07"
+    }
+  ],
+  "name": "Typescale",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1080,
+    "name": "Apple TV",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9DC9AB58-40B9-4644-B403-42676328620D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "7324B7B7-50DD-466F-A319-78D05403674B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "863B8AA0-00C9-42B9-AE9F-D103AB3CD8BA",
+    "guides": [
+    ]
+  }
+}

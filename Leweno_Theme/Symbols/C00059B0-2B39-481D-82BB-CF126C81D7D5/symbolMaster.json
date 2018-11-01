@@ -1,0 +1,139 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "989DFB2E-E3F0-47AD-829D-C3279BEE53FA",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 16927,
+  "clippingMaskMode": 0,
+  "do_objectID": "C00059B0-2B39-481D-82BB-CF126C81D7D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01CF651B-60BF-47DA-9263-41AA488F94E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1BFF0429-EC38-4101-9FAC-55A991CD25B9",
+    "height": 76,
+    "width": 328,
+    "x": 89132,
+    "y": 116
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DD0F24F6-C1BE-4660-AA92-5E507F606ED8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5086CAEE-BC79-4322-B617-EE3563CA4DA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FB41EB0-95C5-4DBC-AD52-938959294E61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED19A187-7D24-4A02-9A34-3E7D8A7653FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D98D0DC-A33E-4546-92AC-62697DC4522F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFADEE2F-96B2-46C6-8269-0623B3E40D21"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DAABFBD-D111-486F-BE2A-6E94EBE35F61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2C3A579-E59E-4495-B83F-3B1E657BA081"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "378C3454-DC1B-49A7-912E-A5D93013790B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Text Field / Filled / Trailing Icon / Activated with Input",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A0810F6-3EC1-4479-B3C0-DA35AFF1ACE8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AFE0CFC3-5B0D-422D-9989-5BE20CC9FA27",
+  "userInfo": {
+    "com.google.ux.material.spec_tools": {
+      "theme": "{\"lastUpdatedUtc\":\"2018-10-26 19:56:52\",\"palettes\":{\"PRIMARY\":{\"colors\":[{\"red\":0.9256479357601703,\"green\":0.9360237722782586,\"blue\":0.9519158256656762,\"alpha\":1},{\"red\":0.8145082249153286,\"green\":0.8440912610649647,\"blue\":0.8724173440868089,\"alpha\":1},{\"red\":0.6987946744409821,\"green\":0.7396195153882021,\"blue\":0.7834782670839888,\"alpha\":1},{\"red\":0.5793709042597559,\"green\":0.6353312129156143,\"blue\":0.6950681930204483,\"alpha\":1},{\"red\":0.4897732469026526,\"green\":0.5555274234783188,\"blue\":0.6254307156955641,\"alpha\":1},{\"red\":0.40078596862834376,\"green\":0.47969898483021717,\"blue\":0.5600654064832299,\"alpha\":1},{\"red\":0.34934934471475115,\"green\":0.42215771847214223,\"blue\":0.49259689629646736,\"alpha\":1},{\"red\":0.28627450980392155,\"green\":0.34509803921568627,\"blue\":0.403921568627451,\"alpha\":1},{\"red\":0.22712776741589968,\"green\":0.27189291349209505,\"blue\":0.3191151409330261,\"alpha\":1},{\"red\":0.1563584962423251,\"green\":0.19086778642817767,\"blue\":0.2271175455587136,\"alpha\":1}],\"mainColorIndex\":6},\"SECONDARY\":{\"colors\":[{\"red\":1,\"green\":0.9282458560845824,\"blue\":0.9383566615952864,\"alpha\":1},{\"red\":1,\"green\":0.8203981029469722,\"blue\":0.8354170098787891,\"alpha\":1},{\"red\":0.9746632768648439,\"green\":0.6314885004084957,\"blue\":0.6217061506764061,\"alpha\":1},{\"red\":0.949367613102743,\"green\":0.4882521213275514,\"blue\":0.4732634667586199,\"alpha\":1},{\"red\":0.996078431372549,\"green\":0.37254901960784315,\"blue\":0.3333333333333333,\"alpha\":1},{\"red\":1,\"green\":0.3143849372280563,\"blue\":0.22334256177940454,\"alpha\":1},{\"red\":0.9628889331689173,\"green\":0.2824650066922353,\"blue\":0.226227903914768,\"alpha\":1},{\"red\":0.8905667892328915,\"green\":0.2423041411314062,\"blue\":0.20195383182097193,\"alpha\":1},{\"red\":0.8395176525330117,\"green\":0.2156278613890213,\"blue\":0.1738972822220669,\"alpha\":1},{\"red\":0.7794631793041583,\"green\":0.17464356665980482,\"blue\":0.1251633885110691,\"alpha\":1}],\"mainColorIndex\":3,\"inkColor\":{\"red\":0,\"green\":0,\"blue\":0,\"alpha\":1}},\"SURFACE\":{\"colors\":[{\"red\":0.9686274509803922,\"green\":0.9686274509803922,\"blue\":1,\"alpha\":1},{\"red\":0.9174435810611746,\"green\":0.9155898991917834,\"blue\":1,\"alpha\":1},{\"red\":0.867862922021741,\"green\":0.8638575820339792,\"blue\":1,\"alpha\":1},{\"red\":0.813936534324695,\"green\":0.7994847269885975,\"blue\":1,\"alpha\":1},{\"red\":0.7638001056261915,\"green\":0.7244829001207905,\"blue\":1,\"alpha\":1},{\"red\":0.7314946626554815,\"green\":0.6539744196082213,\"blue\":1,\"alpha\":1},{\"red\":0.6933846267122866,\"green\":0.6077913967112765,\"blue\":1,\"alpha\":1},{\"red\":0.6488141014595088,\"green\":0.5546402555423571,\"blue\":0.9578071038394803,\"alpha\":1},{\"red\":0.6173351677852613,\"green\":0.5108203800507303,\"blue\":0.9075377055630051,\"alpha\":1},{\"red\":0.5618724823551833,\"green\":0.42929880461110387,\"blue\":0.8161665246921513,\"alpha\":1}],\"mainColorIndex\":0}},\"cornerType\":\"ROUNDED\",\"cornerSizesDp\":[5,5,5,5],\"textStyles\":{\"HEADLINE_1\":{\"font\":{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":131.39572538860105}},\"HEADLINE_2\":{\"font\":{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":82.12232836787565}},\"HEADLINE_3\":{\"font\":{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":65.69786269430053}},\"HEADLINE_4\":{\"font\":{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":46.535986075129536}},\"HEADLINE_5\":{\"font\":{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6},\"metrics\":{\"fontSize\":32.84893134715026}},\"HEADLINE_6\":{\"font\":{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6},\"metrics\":{\"fontSize\":27.37410945595855}},\"SUBTITLE_1\":{\"font\":{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":21.89928756476684}},\"SUBTITLE_2\":{\"font\":{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":19.161876619170986}},\"BODY_1\":{\"font\":{\"fontFamilyName\":\"Vollkorn\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":null},\"BODY_2\":{\"font\":{\"fontFamilyName\":\"Vollkorn\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":16.149529203056765}},\"CAPTION\":{\"font\":{\"fontFamilyName\":\"Vollkorn\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":13.842453602620086}},\"BUTTON\":{\"font\":{\"fontFamilyName\":\"Vollkorn\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":16.149529203056765}},\"OVERLINE\":{\"font\":{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Bold\",\"traits\":2,\"weight\":9},\"metrics\":{\"fontSize\":16.42446567357513}}},\"selectedFontFamilies\":[{\"name\":\"Vollkorn\",\"fonts\":[{\"fontFamilyName\":\"Vollkorn\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},{\"fontFamilyName\":\"Vollkorn\",\"fontName\":\"Italic\",\"traits\":1,\"weight\":5},{\"fontFamilyName\":\"Vollkorn\",\"fontName\":\"SemiBold\",\"traits\":2,\"weight\":8},{\"fontFamilyName\":\"Vollkorn\",\"fontName\":\"SemiBold Italic\",\"traits\":3,\"weight\":8},{\"fontFamilyName\":\"Vollkorn\",\"fontName\":\"Bold\",\"traits\":2,\"weight\":9},{\"fontFamilyName\":\"Vollkorn\",\"fontName\":\"Bold Italic\",\"traits\":3,\"weight\":9},{\"fontFamilyName\":\"Vollkorn\",\"fontName\":\"Black\",\"traits\":2,\"weight\":11},{\"fontFamilyName\":\"Vollkorn\",\"fontName\":\"Black Italic\",\"traits\":3,\"weight\":11}]},{\"name\":\"Cormorant Garamond\",\"fonts\":[{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Italic\",\"traits\":1,\"weight\":5},{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Light\",\"traits\":0,\"weight\":3},{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Light Italic\",\"traits\":1,\"weight\":3},{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Medium\",\"traits\":0,\"weight\":6},{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Medium Italic\",\"traits\":1,\"weight\":7},{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"SemiBold\",\"traits\":2,\"weight\":8},{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"SemiBold Italic\",\"traits\":3,\"weight\":8},{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Bold\",\"traits\":2,\"weight\":9},{\"fontFamilyName\":\"Cormorant Garamond\",\"fontName\":\"Bold Italic\",\"traits\":3,\"weight\":9}]}]}",
+      "themeMetadataVersion": 4,
+      "type": "text-fields"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7D61A240-DAD5-4C01-A873-A984F5F14517",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "97EFFB02-F5F1-4715-98D4-94E8B8EB23C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F71053B4-8A42-46D6-BA1C-62D90923BD42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E43E233-1588-4D6A-98E2-140AD0044AF6",
+    "height": 640,
+    "width": 360,
+    "x": 1400,
+    "y": 140
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "23B08EE0-5430-4CB0-8C41-3081F31DA7EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06A07116-0F1F-494D-9403-61430BC3E6DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3FBAA39-ACC0-416D-BD1E-3A359FE0656D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CDD3AA2-F4A9-435E-87EB-AABAC05A4138"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBB0C2B3-1F3A-40E0-A557-3F04B3AEE4FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1104E8A8-BC75-48DD-B186-B7BC56421D5D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18FE19DB-1787-4578-A87F-BC43A60B565A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82FD89CE-AB83-40E4-B39F-304E24480533"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "878A1718-99B2-46AC-80D7-DD0D99676613"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B71D1AB9-4FF8-4D98-8937-87E5FFC111C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE766B81-40E4-43F3-9C69-B2773A135E93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F725CEC-90E0-4CB9-8202-7C739D395403"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1289D7A-4BAA-4092-821D-1B20775CD15B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72750740-43E6-479C-AEC4-EBD93724D04A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AAB6849A-42D4-47CB-8D20-A4EFDF0BF49D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55C53D47-D342-4253-8783-D08F145EFB6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8932DC2-DBBC-4F51-9EF4-868273E00ABC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D6B0DAF-B9DA-4C60-8CE1-768BA325AEA9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82280076-9B79-468B-ACEE-125C49331DA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABD688F7-5F0B-4B0D-856C-306D823AE5F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38473DF9-33A6-45E1-A623-85F66351891A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B278EBBA-097A-4395-8C64-95B47072890D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "050D01AD-4F29-49E5-9337-F07D7EB17722"
+    }
+  ],
+  "name": "Mobile / Shrine 04",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1CE38E1-0A20-48D2-89CB-891A49FA8819",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

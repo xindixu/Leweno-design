@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E91E465C-CC47-4B08-AEAA-57D59A95FD35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26EA9ED9-B907-4633-A8DA-186D3327ED9A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "302A5825-E5FA-4F5B-ACC9-92B0F7A23EB5",
+    "height": 36,
+    "width": 179,
+    "x": 0,
+    "y": 130
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Contained / Shape Variant / Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6CD396B4-BC2E-41E4-BC3C-BD962E909ED4",
+      "overrideName": "6E533D51-8213-4BEC-9E08-2DB369369F20/826B62B4-F562-440B-8D73-AA583B5CD05F_stringValue",
+      "value": "Chat. Chat. Chat"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66869B95-44E5-4BA4-A2CD-DADADF6BB019",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F51DED9-4383-49CA-B783-2EA3A8EB9159",
+  "verticalSpacing": 0
+}

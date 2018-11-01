@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "050D01AD-4F29-49E5-9337-F07D7EB17722",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2A4FA74-2990-41B9-8B9B-12F53DD49449",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40CCC79D-E5E5-4536-BEFB-22D4AD42AC4A",
+    "height": 204,
+    "width": 280,
+    "x": 40,
+    "y": 218
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dialogs / Confirmation / with Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD8FD148-0466-43AC-87BA-11DCB4C1D1D3",
+      "overrideName": "5F5FAC57-95BD-4E58-9941-1392350172DB/276CD875-082B-4B12-88D9-5D329572C64C_stringValue",
+      "value": "Receive sale alerts?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C05FE172-E4FA-4FEF-8B64-A69A5B3B9D2B",
+      "overrideName": "206C4BF4-D3B1-42B7-8661-C51EA8402A72/17B6C92B-E096-40D0-A9A3-AF2428047033_stringValue",
+      "value": "Let Shrine send you notifications when your favorite brands go on sale"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41A607F1-B34C-4A45-AB5A-0F61FE2F64DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5A6B6F96-19CC-4DB0-9FE1-B195C50970CB",
+  "verticalSpacing": 0
+}

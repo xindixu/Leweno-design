@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B01E4C9-5DBA-4F6C-A764-E3EB78BBB39F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46485CB2-4B8C-41A8-8118-C0280CE1B9E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "664C0681-7E30-4A57-9F70-B52683A3CC96",
+    "height": 48,
+    "width": 360,
+    "x": 104,
+    "y": 748
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab / Scrollable Tabs / Icon Only / Flat",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8CCE4E5D-4A05-4399-BB24-65B2020ADD00",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AF768882-7A66-4967-91B6-63899D29A4EC",
+  "verticalSpacing": 0
+}

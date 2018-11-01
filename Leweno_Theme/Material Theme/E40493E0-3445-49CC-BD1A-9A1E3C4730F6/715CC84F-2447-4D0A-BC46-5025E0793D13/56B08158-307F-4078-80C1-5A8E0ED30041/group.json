@@ -1,0 +1,130 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "56B08158-307F-4078-80C1-5A8E0ED30041",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 980,
+    "y": 140
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "853CB5E9-9063-4794-89EF-0BC779EB9061"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB60FDAA-CFB7-4934-8AEF-078B79459D86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "416EB04B-4760-4739-9B08-1672EA57F8B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "575920A1-B142-4DF2-8D4C-586D654D142B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D420E2CF-DF40-44DA-AAD6-57C76E9A4087"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDE0D0C0-0CD0-4873-9A21-19212CD2A17F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDA2EF18-B955-40BB-9499-8B52106A156A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CB0728B-5CB5-40AF-B70B-F9557521F403"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC696522-3E8F-4CC1-9DC8-BB9FD71C32CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E8BEE3F-CB0E-46BD-96BE-CB5FEA149F07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AAF87E5B-A89A-4596-ABEF-ECFFE04C1E37"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "321A1CD9-F106-4230-8F97-075F0460163E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BCECC547-9F71-4606-881B-1671F12A7371"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49ACAD04-36DA-4AF0-9B70-02FA4D5DC3B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68DC9DCF-6C71-421B-8259-AB92986C827F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CA7F8B8-28D0-40AA-8E02-C95CA98CE3E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4820414-D705-414C-8DC4-BFDB00B72F7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "829BBFCA-8BA0-445C-BD70-5CB8877820EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F0E678C-B0AA-435D-8880-B7F74E2CB2E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD4427F5-2D49-476B-B4FD-8B0E2E4BE6D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA35AC2E-2D70-4C0E-BAD2-EAE02E144822"
+    }
+  ],
+  "name": "Mobile / Shrine 03",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

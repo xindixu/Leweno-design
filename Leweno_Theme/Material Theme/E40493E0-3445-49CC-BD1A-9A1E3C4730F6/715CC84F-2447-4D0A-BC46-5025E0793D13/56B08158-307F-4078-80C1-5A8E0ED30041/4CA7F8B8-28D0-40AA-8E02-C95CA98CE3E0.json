@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4CA7F8B8-28D0-40AA-8E02-C95CA98CE3E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2101BB47-B909-4C8D-BFD8-D741CBDD7565",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8ED0C73-F213-4985-83BA-29EDB4DD34E3",
+    "height": 28,
+    "width": 328,
+    "x": 16,
+    "y": 311
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "✱ / Text / H5 / Selected / On Surface / High Emphasis / Left",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72D06175-C915-4C99-9F41-2F3876057E88",
+      "overrideName": "9A437744-2AF4-4858-8E5D-71C59B1B3D1B_stringValue",
+      "value": "Flow Shirt Blouse"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43E90C24-85C0-47D1-B7AD-55A41C037F26",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2DA8A9A0-B631-4B75-8983-DFB6527BA688",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C51E1F5B-80F5-4B0B-9294-4EDA41481FE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "32A1CD12-C70B-47F4-AE9E-C1B132A656CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "623DEE58-1FEE-4ECD-9AC7-676B4BA57D32",
+    "height": 188,
+    "width": 128,
+    "x": 1132,
+    "y": 2007
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Menu / Editable",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "59F6D6DF-1C21-4465-B83B-35EDDE5C8358",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B7F3E366-A1E3-437F-8C23-3FAF1F927844",
+  "verticalSpacing": 0
+}

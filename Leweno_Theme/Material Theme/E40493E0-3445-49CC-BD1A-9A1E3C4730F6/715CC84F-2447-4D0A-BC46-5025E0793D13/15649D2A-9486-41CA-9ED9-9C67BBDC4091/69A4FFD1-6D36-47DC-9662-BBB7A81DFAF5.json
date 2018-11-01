@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "69A4FFD1-6D36-47DC-9662-BBB7A81DFAF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "System Bar / Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E44B2CBA-7125-45F9-8456-2A4434D33590",
+      "overrideName": "26EFC45F-FA5A-4B5F-AD21-0EBE42CEEDAB_symbolID",
+      "value": "D4A120E5-08D7-4351-BB51-DD01228883E5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FBE06727-0B59-4475-BC33-6AFF38569F32",
+      "overrideName": "2D56C93E-3205-4B0B-B152-C2F3A2C821ED/677A8015-2ADB-4217-A8A4-D335305F7967_symbolID",
+      "value": "D6A221E3-5723-403C-94BC-AB31CDD83F7D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D4D05325-49CB-482D-85E7-0D4C9BC7235D",
+  "verticalSpacing": 0
+}

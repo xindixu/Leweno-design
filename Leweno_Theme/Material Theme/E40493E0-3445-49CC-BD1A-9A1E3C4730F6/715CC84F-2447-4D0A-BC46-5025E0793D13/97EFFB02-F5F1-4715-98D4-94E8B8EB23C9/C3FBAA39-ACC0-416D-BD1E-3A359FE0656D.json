@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C3FBAA39-ACC0-416D-BD1E-3A359FE0656D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11A4F9F4-07E6-4B2D-A6BE-DFA463483842",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26FEEED1-0973-4CE1-9D7E-FE5A7649E685",
+    "height": 24,
+    "width": 288,
+    "x": 16,
+    "y": 606
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "✱ / Text / Subtitle 1 / Selected / On Surface / Medium Emphasis / Left ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A94DB3E-58E3-4765-B69C-705754BB5F70",
+      "overrideName": "17B6C92B-E096-40D0-A9A3-AF2428047033_stringValue",
+      "value": "Color"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "57B4A2DE-E221-4CA7-AFC5-3E6665142A1C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0052A689-A446-403C-9E8D-EA1FC7918678",
+  "verticalSpacing": 0
+}

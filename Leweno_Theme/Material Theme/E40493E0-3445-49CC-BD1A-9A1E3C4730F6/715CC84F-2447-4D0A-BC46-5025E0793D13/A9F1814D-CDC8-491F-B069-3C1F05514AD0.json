@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9F1814D-CDC8-491F-B069-3C1F05514AD0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12E0E5EC-9DD0-466B-86BF-4298EB89086F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F45899A-0D7D-4A2C-B753-5A36F50E44CE",
+    "height": 88,
+    "width": 360,
+    "x": 140,
+    "y": 1195
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "List / Three Line / Avatar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E46D0AD-34A7-4983-856A-A4A6B17CAB84",
+      "overrideName": "F766F10F-2797-4BA0-9035-4AC3D16679C5_symbolID",
+      "value": "78B303F0-F97E-4A18-8F88-43B49AEF54B0"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10C5A6DE-11AE-4A39-94AD-FC2F6003AA6E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE92DB13-F5E7-45EB-B5ED-A7D8F621D762",
+  "verticalSpacing": 0
+}

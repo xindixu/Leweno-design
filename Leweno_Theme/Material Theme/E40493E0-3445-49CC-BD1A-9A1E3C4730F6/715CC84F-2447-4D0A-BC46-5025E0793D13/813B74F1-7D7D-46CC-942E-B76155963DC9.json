@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "813B74F1-7D7D-46CC-942E-B76155963DC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57F1A346-B809-4A25-BE28-7A0A176C4962",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1FE21501-2091-4B05-BA71-3E6B0D9CD1E6",
+    "height": 164,
+    "width": 164,
+    "x": 148,
+    "y": 2237
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cards / Elements / Surface / Filled / Resting / 1dp",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4658277C-DAEB-439A-9C38-1B21E8772782",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BDD3AAE8-95B1-4F86-BFFF-BD3FD8BCC404",
+  "verticalSpacing": 0
+}

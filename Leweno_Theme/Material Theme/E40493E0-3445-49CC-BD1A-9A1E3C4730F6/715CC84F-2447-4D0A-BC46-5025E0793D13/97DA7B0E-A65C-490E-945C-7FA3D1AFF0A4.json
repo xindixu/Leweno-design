@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "97DA7B0E-A65C-490E-945C-7FA3D1AFF0A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EF66AA12-D2E9-43B8-AE97-77CBE6F3B30E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AFEAAB98-65E3-4BC7-9F3D-91616E08586F",
+    "height": 64,
+    "width": 360,
+    "x": 1400,
+    "y": 2283
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "App Bar / Bottom App Bar / No FAB / Raised / Primary Color",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BD99EA17-D220-4AE2-9A0F-43C9760B56B6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FFC87808-3231-4851-898E-FBD14C44E931",
+  "verticalSpacing": 0
+}

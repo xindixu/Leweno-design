@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B9136D76-8971-4A4A-9881-9E0E45F3F12E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 560,
+    "y": 140
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "53B1D7D9-A613-4E2D-B552-5853CEF9A785"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C5198ED-4D98-410A-95ED-D25EE141AF1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16CF873C-C593-4D90-970E-9CCD23BE2E41"
+    },
+    {
+      "class": "group",
+      "id": "A58E97C5-4365-43D7-A8D6-C2BB6F21FED8"
+    },
+    {
+      "class": "group",
+      "id": "ECAE814E-78A6-4005-A5DC-CE45DD3716BD"
+    },
+    {
+      "class": "group",
+      "id": "2AF9FF8B-DD6E-4FD4-A1A6-D1EFEBABDF15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C5E5C48-CA6D-4C3D-98AA-0699E6056CF9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69CEADC3-9A66-483C-B5F1-EBFDA9285722"
+    }
+  ],
+  "name": "Mobile / Shrine 02",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

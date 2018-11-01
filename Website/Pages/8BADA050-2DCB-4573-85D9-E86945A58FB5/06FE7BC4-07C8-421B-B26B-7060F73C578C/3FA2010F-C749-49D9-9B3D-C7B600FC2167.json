@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FA2010F-C749-49D9-9B3D-C7B600FC2167",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 328,
+    "x": 526,
+    "y": 372
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Filled / Leading Icon / Resting",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7FCA5129-8938-4B45-82BB-872DE319267F",
+      "overrideName": "DF1C255A-10D0-4034-91B3-B1FA7420F1C3/17B6C92B-E096-40D0-A9A3-AF2428047033_stringValue",
+      "value": "Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C21217FE-D823-4F09-8C02-A66297C78327",
+      "overrideName": "9818CF9D-C0F0-426E-B599-4C67250A381E/62C22133-D29F-4168-9A25-2AE8C0A38A48_stringValue",
+      "value": "Requirement: one digit, one upper case"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5D5A2B92-58BD-4445-AC85-6A0002619CB6",
+      "overrideName": "2754D4D9-5D26-4BCD-88E7-F61DC7A7E0D9_symbolID",
+      "value": "4B4D870F-512C-4ECA-A2FF-C2891D365E9E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3C0E28B-CAB0-4A13-9E9B-E1B69C4993A6",
+      "overrideName": "2754D4D9-5D26-4BCD-88E7-F61DC7A7E0D9/B98A5E55-5119-403C-871A-F7611631EB62_symbolID",
+      "value": "3DFDE60A-3D5D-4EA0-B72E-09D89BB83579"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F047819B-C836-4359-B3F7-A76F0AB7EE14",
+      "overrideName": "36018103-31C6-4EC7-A97F-C7531B7D17A1/B7317943-8AFB-4E19-9A32-F471039F5809_symbolID",
+      "value": "3DFDE60A-3D5D-4EA0-B72E-09D89BB83579"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A55F777D-D4F8-4DD2-A795-E306B2F5FCAE",
+  "verticalSpacing": 0
+}

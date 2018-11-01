@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C92BD39C-B2B6-4817-9DCD-818694C0E747",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0606450F-6713-43FF-BE38-7D3346566EE5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B928421F-8537-4CEA-818B-885AE03D0707",
+    "height": 36,
+    "width": 179,
+    "x": 0,
+    "y": 139
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Contained / Shape Variant / Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6CD396B4-BC2E-41E4-BC3C-BD962E909ED4",
+      "overrideName": "6E533D51-8213-4BEC-9E08-2DB369369F20/826B62B4-F562-440B-8D73-AA583B5CD05F_stringValue",
+      "value": "See how it helps"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CB8590B-8C0F-4576-97CD-CDFA5BDC3371",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F51DED9-4383-49CA-B783-2EA3A8EB9159",
+  "verticalSpacing": 0
+}

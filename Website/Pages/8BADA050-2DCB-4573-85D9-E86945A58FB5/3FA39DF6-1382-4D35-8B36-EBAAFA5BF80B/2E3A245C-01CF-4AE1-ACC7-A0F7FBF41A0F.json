@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E3A245C-01CF-4AE1-ACC7-A0F7FBF41A0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F6C4A85-2E48-41B8-BE56-0A94891C8D59",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "517C8A47-A1FD-426D-8FBA-4CF7A511ED63",
+    "height": 36,
+    "width": 175,
+    "x": 748,
+    "y": 420
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Outlined / Enabled",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2C19F3A-A297-4E0F-B42D-E29B8744F2BE",
+      "overrideName": "F4FF845F-A9BC-4395-A21D-E81FB19AFB55/795E42AC-B672-4179-8C16-F51F6144C953_stringValue",
+      "value": "Find a worker"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "832C0C71-61CA-450C-BF1A-2EEA292E7F82",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8AD5DE85-3DC8-4FC1-9138-A7BA52F0538B",
+  "verticalSpacing": 0
+}

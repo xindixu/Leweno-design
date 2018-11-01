@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8AA3CF20-6924-480B-8FB5-4385FB01F67A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB666BE4-057B-44B2-90D1-8D54EAE3DCAD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43C75BB8-BCBB-4FDE-90BB-AFB4584A4044",
+    "height": 18,
+    "width": 18,
+    "x": 70,
+    "y": 436
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A3030D1F-4985-40A0-AE97-D0D97515DF52"
+    }
+  ],
+  "name": "$OVERLAYER1439291329136",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E81A7334-FC7F-4DDA-A8FF-727A23CBD4E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

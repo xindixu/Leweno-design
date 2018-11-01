@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF81A96C-3AA6-4745-9ED2-FC9E4802276C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B88F0D10-2E97-4DC8-B51C-CC1E3DEC0698",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D431C856-4966-402E-93D4-43011647752C",
+    "height": 640,
+    "width": 360,
+    "x": 980,
+    "y": 1307
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Backdrop / Elements / Back Layer",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BCD66ADE-25D1-447E-BB2C-92CBAFAB6359",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4760E358-2721-4301-A885-A02E3CB300DB",
+  "verticalSpacing": 0
+}

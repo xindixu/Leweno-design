@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "568EA5CA-C5F7-43A3-BE19-F3F75D5B3ECA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0FCBC24A-9A05-463F-875B-B9602879A789",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90BF17FE-09EC-4EFC-A541-C308ECFF7246",
+    "height": 35,
+    "width": 35,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/communication/email_24px",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EAB05D2A-4E0D-4F5E-8E03-F00CD6B49B07",
+      "overrideName": "2A667311-0A89-4C6F-9F76-D036583077F5_symbolID",
+      "value": "6A5E812C-6139-4CD4-8451-D87137E6A2C2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F21F1607-C999-49E0-BF15-67D897D0DD64",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "820C7242-95CA-4BD6-AA30-C772D69A32A5",
+  "verticalSpacing": 0
+}

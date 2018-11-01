@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B008CA75-4206-47DA-A987-67947D516BFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "327FB2DF-1846-4E1F-BE69-E33DFFE1802F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "88BA3111-0E8F-4CEC-A6C9-9673B2A898C2",
+    "height": 28,
+    "width": 200,
+    "x": 164,
+    "y": 467
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "✱ / Text / Body 1 / Black / High Emphasis / Left",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE5A0826-3B30-4CD3-BE7B-B5768F38B47C",
+      "overrideName": "615E97C5-7DE5-40F4-8D79-8C3A251DC07C_stringValue",
+      "value": "Light"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69E7C6E0-3DB7-4B3B-9AEA-40BEE2BCFB25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7DCEDABC-6A1A-4954-B538-CF417B826D61",
+  "verticalSpacing": 0
+}

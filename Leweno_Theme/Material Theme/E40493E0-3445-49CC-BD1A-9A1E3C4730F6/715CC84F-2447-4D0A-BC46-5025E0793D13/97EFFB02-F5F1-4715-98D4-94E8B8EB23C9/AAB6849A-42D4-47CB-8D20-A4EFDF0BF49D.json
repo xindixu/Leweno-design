@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AAB6849A-42D4-47CB-8D20-A4EFDF0BF49D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "058874CC-FAFE-42AF-9333-3AA2D67BBA09",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D86FC9EC-B296-4A42-AEB3-72ABF657A062",
+    "height": 47,
+    "width": 328,
+    "x": 16,
+    "y": 373
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "✱ / Text / Body 2 / Selected / On Surface / Medium Emphasis / Left ",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CA93B04-EC38-469D-9F63-36A4D2EEA7B0",
+      "overrideName": "EA94034F-589A-4C8E-A7F0-71E97520D736_stringValue",
+      "value": "A walk to the park or just down the hall. Fitted and free with happy pipes and flowers"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31624F19-6AF8-498B-82F1-B15692B41E58",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "59889DEF-07C0-461C-8591-2F958583B8AA",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "87059D94-070C-49B2-94C2-D7F82376C277",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 616,
+    "width": 360,
+    "x": 0,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Backdrop / Elements / Back Layer",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC264091-C373-4C7E-A708-D25FB7130CAC",
+      "overrideName": "CE8E2B08-1976-4D3C-81AE-43406488D0C5/CDF0FAE0-F5DC-4458-8ADC-736BB44A6042_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1598C4B5-9A1E-4295-940A-B7025C336117",
+      "overrideName": "CE8E2B08-1976-4D3C-81AE-43406488D0C5/72E24D9B-847B-465B-B9BF-43C649F45723_symbolID",
+      "value": "78B303F0-F97E-4A18-8F88-43B49AEF54B0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59042547-95E2-4201-B240-4DA6754E602B",
+      "overrideName": "CE8E2B08-1976-4D3C-81AE-43406488D0C5/72E24D9B-847B-465B-B9BF-43C649F45723/2C9142CE-DFA8-4DEC-8DCE-E4378B7131B8_symbolID",
+      "value": "480FBFC9-262B-4D4A-BC1D-C3CDD362C6F8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4760E358-2721-4301-A885-A02E3CB300DB",
+  "verticalSpacing": 0
+}

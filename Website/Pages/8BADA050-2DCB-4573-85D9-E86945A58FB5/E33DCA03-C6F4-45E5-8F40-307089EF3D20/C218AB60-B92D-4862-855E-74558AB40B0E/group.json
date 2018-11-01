@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C218AB60-B92D-4862-855E-74558AB40B0E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F3064D35-CED9-47E5-AA47-0C65227BC01D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A18C5FE1-CEC3-4D4F-B345-B923F5977097",
+    "height": 154,
+    "width": 159,
+    "x": 722,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9D5BFABD-08F6-4DB8-A82A-E62F15C12132"
+    },
+    {
+      "class": "text",
+      "id": "3B213677-9BAE-466F-BCB5-09479B824919"
+    }
+  ],
+  "name": "Col3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D3FCE25-E309-4B5A-A737-5A29528BC55F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

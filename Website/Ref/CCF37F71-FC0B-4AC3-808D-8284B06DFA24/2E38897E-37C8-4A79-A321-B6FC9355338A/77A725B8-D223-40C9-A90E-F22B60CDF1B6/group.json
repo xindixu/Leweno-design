@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "77A725B8-D223-40C9-A90E-F22B60CDF1B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C3A76DE-504A-482D-9E07-564BC57EC9B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C149F15D-4B31-45A1-9794-E4A7CB33DDB7",
+    "height": 18,
+    "width": 18,
+    "x": 11,
+    "y": 11
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9BBB420B-FE87-4FEC-AFDE-B61DA6CFFAEA"
+    },
+    {
+      "class": "shapePath",
+      "id": "0F06331D-6272-4A19-96C6-47630EF56E15"
+    },
+    {
+      "class": "shapePath",
+      "id": "50CD662A-C836-4B04-BE4C-64A5FEC9E213"
+    },
+    {
+      "class": "shapePath",
+      "id": "D8865156-83FD-42BF-8D7D-6E789A899E37"
+    },
+    {
+      "class": "shapePath",
+      "id": "92715EF9-5E9A-446F-AEB2-555008FC7B96"
+    }
+  ],
+  "name": "logo_googleg_48dp",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53A0EA45-488A-4CA8-9895-D466A0972321",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

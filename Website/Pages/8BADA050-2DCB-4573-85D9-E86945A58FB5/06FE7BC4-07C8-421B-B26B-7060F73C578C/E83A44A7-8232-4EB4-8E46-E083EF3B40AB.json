@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E83A44A7-8232-4EB4-8E46-E083EF3B40AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 328,
+    "x": 135,
+    "y": 372
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Field / Filled / Leading Icon / Activated with Input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43AB1B4D-F6C7-45BD-920D-F9DD8D91F320",
+      "overrideName": "DDD6D8D2-2540-4C1F-B99A-F56B1A4FE7C0/47EDEAB5-B6AE-44AF-B6C9-197F450AE9B7_stringValue",
+      "value": "bill.gates@microsoft.com"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EEE823C0-5774-46DE-8CBB-CD83A45C1DAD",
+      "overrideName": "0A06A596-FF87-4F30-B79E-6BDDFF1F7735/6204EA1A-6F42-4991-8748-D1B87479FF2F_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E7FF4F67-7CA2-4BCA-8F9F-9DB83CBD8094",
+      "overrideName": "C6831431-151C-4ABC-A582-061DA93A8235/6204EA1A-6F42-4991-8748-D1B87479FF2F_stringValue",
+      "value": "Enter your work email"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F13934E-1271-44B4-AFF8-7B9087358D54",
+      "overrideName": "E92013C3-4297-46F0-A177-345194822210_symbolID",
+      "value": "C7FC9A01-F7D5-4CAE-B0BA-A4B9DAEDA68E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD7865F5-5B00-4CBC-9A3B-D1CB7FFCCF12",
+      "overrideName": "E92013C3-4297-46F0-A177-345194822210/A37A3468-0788-4AF6-A088-D06BE91B5BF2_symbolID",
+      "value": "3DFDE60A-3D5D-4EA0-B72E-09D89BB83579"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3EC5E17-DAF0-46A6-9E08-552D25BA69FC",
+      "overrideName": "8326601C-93D3-4C7D-A646-7CF39D5B7752_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6A75BF03-86CD-47E3-AA75-E8DC19F40358",
+  "verticalSpacing": 0
+}

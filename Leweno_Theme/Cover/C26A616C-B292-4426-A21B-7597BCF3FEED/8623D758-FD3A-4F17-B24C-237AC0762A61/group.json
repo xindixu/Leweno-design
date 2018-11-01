@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8623D758-FD3A-4F17-B24C-237AC0762A61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1087,
+    "width": 1359,
+    "x": -104,
+    "y": -112
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4700252D-F761-471F-B4E4-ADECB31F1699"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18BF5175-BC90-4376-A184-C2AD5837EC90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3BC5558-CAAB-435B-B7AC-3B304650ED34"
+    },
+    {
+      "class": "group",
+      "id": "168B691A-6982-45B9-9E99-2618C5976F15"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B01E4C9-5DBA-4F6C-A764-E3EB78BBB39F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F3CD547-C936-4438-B877-B5D71B9C63BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A88F4F2B-FD64-43E0-80BD-27F332D998B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C7CD1E2-4172-400C-A65B-06B88D962E60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82FCA6E4-5AF4-4A63-8891-5FE84A8E92B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD43820B-ABC5-453C-B54B-D4F3375829A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C2638F11-C972-47D3-A0D5-48746AC2E8C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0BF5699-3C46-4997-BE38-036A233E1E9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24149F32-8079-45DF-A829-ABCDD528682E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA4EF030-1ACB-4720-99E2-35B8ADCA9D91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D469217A-E101-44A5-B3FA-CE33DB91E0F6"
+    }
+  ],
+  "name": "Leweno",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

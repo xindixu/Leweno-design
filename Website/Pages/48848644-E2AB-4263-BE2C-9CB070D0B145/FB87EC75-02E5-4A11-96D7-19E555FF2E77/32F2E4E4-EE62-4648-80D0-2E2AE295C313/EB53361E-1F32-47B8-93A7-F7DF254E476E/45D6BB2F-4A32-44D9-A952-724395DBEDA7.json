@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "45D6BB2F-4A32-44D9-A952-724395DBEDA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "769A8E59-861F-4D21-8DF5-D30F97C5FC82",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "075E40A4-34D8-4FB7-A629-16A14C79028C",
+    "height": 35,
+    "width": 35,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/communication/forum_24px",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DEE931E6-28A8-45C9-B693-7DB3E82A05FA",
+      "overrideName": "545BACC8-7B45-40EB-956D-37CA8D7EFD77_symbolID",
+      "value": "6A5E812C-6139-4CD4-8451-D87137E6A2C2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D7AD58F5-73A3-4223-A844-FC3927B6EA87",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FF34807B-3B3C-4D84-9C2E-CE20C5EFC116",
+  "verticalSpacing": 0
+}
