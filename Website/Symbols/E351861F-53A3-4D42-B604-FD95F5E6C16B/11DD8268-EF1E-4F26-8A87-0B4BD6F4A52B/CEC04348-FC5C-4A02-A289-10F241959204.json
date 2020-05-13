@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7910A930-EEBE-48C9-A7D6-B1123A718BEC",
+  "do_objectID": "CEC04348-FC5C-4A02-A289-10F241959204",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "63E82C09-E027-41AB-9096-B65D70E7FC2C",
+    "do_objectID": "833E3EAA-B458-4D8F-9015-6FB2212A4DC2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C80FE657-0A75-4BCA-9F17-B293EC1BB531",
-    "height": 80,
-    "width": 1440,
-    "x": 0,
-    "y": 0
+    "do_objectID": "EBC8487D-533A-43E3-982F-0AF3BCB097D0",
+    "height": 90,
+    "width": 90,
+    "x": 1286,
+    "y": 35
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,15 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "BG",
+  "name": "Profile",
   "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "25B785A7-610E-4D31-937D-FAB1D605A2C6",
-      "overrideName": "677A8015-2ADB-4217-A8A4-D335305F7967_symbolID",
-      "value": "4379547A-4218-47F2-ABDB-416A4818819A"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,12 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7FBB4A18-3FFC-45BA-90C5-9A03C579EB8C",
+    "do_objectID": "78E82628-231F-43E0-80E3-38FC433B0104",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "331B77B9-D636-47AF-8A1C-C5F410C1E31E",
+  "symbolID": "62D3606A-CD9A-4A63-A2DD-B44852B5942A",
   "verticalSpacing": 0
 }

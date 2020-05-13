@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1E29AA0B-9720-4605-B6B0-943803CA14CD",
+  "do_objectID": "40BECDC6-EBC4-4BF4-8C3B-E7CA5DAE0A6D",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2C29185C-BB12-4E18-8447-20075427C3AB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,8 +18,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 549,
-    "width": 1440,
+    "do_objectID": "474B00B7-A201-4286-8E0D-D4269A119A9E",
+    "height": 40,
+    "width": 140,
     "x": 0,
     "y": 0
   },
@@ -98,6 +100,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "839CDF87-3920-4A53-997F-6709FB2537BB",
     "endMarkerType": 0,
     "fills": [
       {
@@ -105,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 0.9686274509803922,
-          "red": 0.9686274509803922
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
         "isEnabled": false,

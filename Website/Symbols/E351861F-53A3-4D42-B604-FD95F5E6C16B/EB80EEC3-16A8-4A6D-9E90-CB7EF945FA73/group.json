@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E33DCA03-C6F4-45E5-8F40-307089EF3D20",
+  "do_objectID": "EB80EEC3-16A8-4A6D-9E90-CB7EF945FA73",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "021EDB2D-2A28-40AC-AA68-F17F7ADB1DE3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 489,
-    "width": 1440,
-    "x": 0,
-    "y": 5134
+    "do_objectID": "16C78C97-2A08-44E7-BF26-2E643AB9866F",
+    "height": 40,
+    "width": 419,
+    "x": 731,
+    "y": 20
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,50 +29,34 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
-      "id": "2FB9234B-E87D-46E1-A1B6-390738D8A7B5"
+      "id": "40BECDC6-EBC4-4BF4-8C3B-E7CA5DAE0A6D"
+    },
+    {
+      "class": "rectangle",
+      "id": "2C39A16C-EC6F-4A6D-A009-7A98886DBF54"
+    },
+    {
+      "class": "rectangle",
+      "id": "9CE777B8-138D-453A-B7BB-204A44894F28"
     },
     {
       "class": "text",
-      "id": "BAAC7BEE-CB46-4C81-9239-61C3AC1AE557"
-    },
-    {
-      "class": "bitmap",
-      "id": "84F71EB2-C46F-4251-A69F-47B45FDFD7DC"
-    },
-    {
-      "class": "group",
-      "id": "37186628-2FDF-46DF-AA81-8041B5A88DD9"
-    },
-    {
-      "class": "group",
-      "id": "C218AB60-B92D-4862-855E-74558AB40B0E"
-    },
-    {
-      "class": "group",
-      "id": "C3BB67B6-DB42-450B-8FB6-593DE969B056"
-    },
-    {
-      "class": "group",
-      "id": "E2CDEF9A-EB94-4E14-A66E-E5F36DC524A7"
+      "id": "DDA1EFE6-A09F-48EE-9343-0E91A6CDAC33"
     },
     {
       "class": "text",
-      "id": "0F9BDB14-D15D-494B-AB4A-2D292361E4D3"
+      "id": "BDB53D31-2CAA-4B95-B715-BFEF6976A38B"
     },
     {
       "class": "text",
-      "id": "BB877C3F-03FC-4BF2-B531-35F8092C3725"
-    },
-    {
-      "class": "text",
-      "id": "6F9E3271-C547-43C9-91FB-56809E19A38A"
+      "id": "283C5CA0-6480-44D0-9B09-6C08F2399EDC"
     }
   ],
-  "name": "Footer",
+  "name": "Link",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -78,6 +64,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "876D95B5-C20C-4320-A593-069FF07D6221",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

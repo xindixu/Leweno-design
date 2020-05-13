@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "7910A930-EEBE-48C9-A7D6-B1123A718BEC",
+  "do_objectID": "30DBD45B-7E4B-4BDB-BF30-BCCF93490CE1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "63E82C09-E027-41AB-9096-B65D70E7FC2C",
+    "do_objectID": "CEF1BF1B-6603-408D-A051-3CBEAAF62982",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C80FE657-0A75-4BCA-9F17-B293EC1BB531",
+    "do_objectID": "14FF75F8-61F4-44DF-9EFF-E6434415A7E4",
     "height": 80,
     "width": 1440,
     "x": 0,
@@ -33,12 +33,6 @@
   "name": "BG",
   "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "25B785A7-610E-4D31-937D-FAB1D605A2C6",
-      "overrideName": "677A8015-2ADB-4217-A8A4-D335305F7967_symbolID",
-      "value": "4379547A-4218-47F2-ABDB-416A4818819A"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,7 +41,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7FBB4A18-3FFC-45BA-90C5-9A03C579EB8C",
+    "do_objectID": "2C3BEACA-EAF5-4E33-81CA-62CE8BEEC356",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

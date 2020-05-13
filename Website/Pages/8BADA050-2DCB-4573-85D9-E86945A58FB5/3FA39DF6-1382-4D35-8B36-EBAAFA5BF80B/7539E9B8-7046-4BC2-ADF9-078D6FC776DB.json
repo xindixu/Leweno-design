@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 709,
-    "y": 715
+    "height": 35,
+    "width": 35,
+    "x": 703,
+    "y": 710
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,18 @@
   "name": "Icon / Keyboard Arrow - Down / Filled",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35975BD3-1FFB-4E50-9584-B638BAED9DAB",
+      "overrideName": "591E2785-6ED3-4ADF-810C-9B860507BCE7_symbolID",
+      "value": "3DFDE60A-3D5D-4EA0-B72E-09D89BB83579"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "359139A9-BD38-4A4A-A9AD-8504A70B6574",
+      "overrideName": "591E2785-6ED3-4ADF-810C-9B860507BCE7/054BA0D2-AE1F-4F4E-A0E4-34389E6483F4_symbolID",
+      "value": "C9FF6E94-6B94-4E50-9916-2312A925AE86"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

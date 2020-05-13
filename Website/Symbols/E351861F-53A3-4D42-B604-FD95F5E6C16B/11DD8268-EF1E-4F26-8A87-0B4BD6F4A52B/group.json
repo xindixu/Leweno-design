@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E33DCA03-C6F4-45E5-8F40-307089EF3D20",
+  "do_objectID": "11DD8268-EF1E-4F26-8A87-0B4BD6F4A52B",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "24519144-A0BA-4917-9C58-7D9D63E5D24C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 489,
+    "do_objectID": "8A15F89D-1E4F-438A-AEAF-CF1A7B460297",
+    "height": 127,
     "width": 1440,
     "x": 0,
-    "y": 5134
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,50 +29,30 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "2FB9234B-E87D-46E1-A1B6-390738D8A7B5"
-    },
-    {
-      "class": "text",
-      "id": "BAAC7BEE-CB46-4C81-9239-61C3AC1AE557"
+      "class": "symbolInstance",
+      "id": "30DBD45B-7E4B-4BDB-BF30-BCCF93490CE1"
     },
     {
       "class": "bitmap",
-      "id": "84F71EB2-C46F-4251-A69F-47B45FDFD7DC"
+      "id": "44E27F55-31EF-4D37-8F46-7103EB54A80E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CEC04348-FC5C-4A02-A289-10F241959204"
     },
     {
       "class": "group",
-      "id": "37186628-2FDF-46DF-AA81-8041B5A88DD9"
+      "id": "55077246-98A6-4F0A-8FD2-4499EB5538A1"
     },
     {
       "class": "group",
-      "id": "C218AB60-B92D-4862-855E-74558AB40B0E"
-    },
-    {
-      "class": "group",
-      "id": "C3BB67B6-DB42-450B-8FB6-593DE969B056"
-    },
-    {
-      "class": "group",
-      "id": "E2CDEF9A-EB94-4E14-A66E-E5F36DC524A7"
-    },
-    {
-      "class": "text",
-      "id": "0F9BDB14-D15D-494B-AB4A-2D292361E4D3"
-    },
-    {
-      "class": "text",
-      "id": "BB877C3F-03FC-4BF2-B531-35F8092C3725"
-    },
-    {
-      "class": "text",
-      "id": "6F9E3271-C547-43C9-91FB-56809E19A38A"
+      "id": "342F7826-379C-411B-A290-DB32DB1C7B55"
     }
   ],
-  "name": "Footer",
+  "name": "Navbar/Normal",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -78,6 +60,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "4260B512-1328-4D72-BDE2-041F9B55979E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
